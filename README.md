@@ -34,7 +34,7 @@ Author by Djunekz, jika ingin recode script ini usahakan cantumkan nama author d
 Copy Command for install,
 Copy Paste in termux
 ```
-git clone https://github.com/djunekz/toolpack && cd toolpack && ./install
+git clone https://github.com/djunekz/toolpack && cd toolpack && bash install
 ```
 **Waiting installation successful**
 **then running type** `toolpack` **to start tool**
